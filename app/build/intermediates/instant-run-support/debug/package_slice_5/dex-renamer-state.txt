@@ -1,0 +1,4 @@
+#Sun Apr 15 20:41:42 ICT 2018
+base.0=C\:\\Users\\gerrys\\Desktop\\semester8\\ai\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\Users\\gerrys\\Desktop\\semester8\\ai\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

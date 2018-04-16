@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerrys\Desktop\semester8\ai\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d1890c8c7bd688a88e5f19be511e90dcef27feb">
+        <dex dex="C:\Users\gerrys\Desktop\semester8\ai\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_28b61b41551de885ec8f530e4a0982da9947376d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerrys\.android\build-cache\eaac95055246f149202fea7cf88adaee7b71a6ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08b7bb0240c9df70b9af7c07496023df477d2640">
+        <dex dex="C:\Users\gerrys\Desktop\semester8\ai\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b7d1714347d4a5e0d937c1a53c6fd50ba4972fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerrys\Desktop\semester8\ai\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\gerrys\Desktop\semester8\ai\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ddf14fdddd1c8a19d090ce194e750721dd0a1146\classes.dex" />
+    </item>
+
+</items>
